@@ -1,5 +1,7 @@
 #meal
 
+https://beliyandr.github.io/meal/
+
 -Верстка по макету : 
 
 --По методологии БЭМ
